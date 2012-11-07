@@ -5,11 +5,7 @@ A playground for learning *git-markdown*
 
 This is an [example link](http://example.com/).
 
-![Alt text](/path/to/img.jpg)
-
 ![Alt text](/path/to/img.jpg "Optional title")
-
-Markdown will generate:
 
 <p>This is a normal paragraph:</p>
 
@@ -46,8 +42,8 @@ Methods
 
 
 
-[getversreq]:getVersionRequired 
-------------------
+[getversreq]: ##getVersionRequired 
+
 
 <b>Example URL</b>  
 http://mobile.walmart.com/m/j?service=AppVersion&method=getVersionRequired
