@@ -24,12 +24,14 @@ Then, anywhere in the document, you define your link label like this, on a line 
 
 [id]: http://example.com/  "Optional Title Here"
 
+Take me to <a href="#pookie">pookie</a>
+
 
 Methods
 =======
 
 * AppVersion  
-  * [getVersionRequired](#getVersionRequired)
+  * <a href="#getVersionRequired">getVersionRequired</a> 
 * Authentication  
 * Browse  
 * Cart  
@@ -40,7 +42,7 @@ Methods
 * Item – Deprecated. Replaced by the ExtendedItem Service.   
 * Item Inventory  
 
-<a id="getVersionRequired"></a>getVersionRequired 
+<a class="reference internal" name="getVersionRequired">getVersionRequired</a>
 ------------------
 
 <b>Example URL</b>  
@@ -80,9 +82,9 @@ To appreciate the extensive functionality of Usergrid, this section steps you th
 The descriptions below shows you how easy it is to create a new app, populate a series of test users, and test the app. To run a copy of *Messagee*, you’ll use the Usergrid Admin Portal, a user interface that streamlines Usergrid data and application management. The portal itself is also a reference application that shows how to incorporate Usergrid APIs with Javascript (for a more detailed discussion of the portal’s functionality, see :ref:`portal-section`).
 
 
-.. _messagee-setup:
 
 
+<a name="pookie">this is pookie</a>
 --------------------------
 Creating an App and Users 
 --------------------------
