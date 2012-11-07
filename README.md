@@ -18,11 +18,22 @@ This is a code block.
 This is a code block.
 </code></pre>
 
+This is [an example][id] reference-style link.
+
+You can optionally use a space to separate the sets of brackets:
+
+This is [another example] [id] reference-style link.
+
+Then, anywhere in the document, you define your link label like this, on a line by itself:
+
+[id]: http://example.com/  "Optional Title Here"
+
+
 Methods
 =======
 
 * AppVersion  
-  * getVersionRequired
+  * [getVersionRequired][getversreq]
 * Authentication  
 * Browse  
 * Cart  
@@ -35,7 +46,7 @@ Methods
 
 
 
-getVersionRequired 
+[getversreq]:getVersionRequired 
 ------------------
 
 <b>Example URL</b>  
