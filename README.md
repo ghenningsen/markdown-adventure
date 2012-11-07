@@ -29,7 +29,7 @@ Methods
 =======
 
 * AppVersion  
-  * <a class="reference internal" href="#GVR">getVersionRequired
+  * [getVersionRequired](*getVersionRequired)
 * Authentication  
 * Browse  
 * Cart  
@@ -40,7 +40,7 @@ Methods
 * Item – Deprecated. Replaced by the ExtendedItem Service.   
 * Item Inventory  
 
-<span id="GVR"></span>
+<a id="getVersionRequired"></a>
 getVersionRequired 
 ------------------
 
