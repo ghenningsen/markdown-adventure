@@ -29,7 +29,7 @@ Methods
 =======
 
 * AppVersion  
-  * [getVersionRequired](*getVersionRequired)
+  * [getVersionRequired](#getVersionRequired)
 * Authentication  
 * Browse  
 * Cart  
