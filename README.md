@@ -40,8 +40,7 @@ Methods
 * Item – Deprecated. Replaced by the ExtendedItem Service.   
 * Item Inventory  
 
-<a id="getVersionRequired"></a>
-getVersionRequired 
+<a id="getVersionRequired"></a>getVersionRequired 
 ------------------
 
 <b>Example URL</b>  
