@@ -29,7 +29,7 @@ Methods
 =======
 
 * AppVersion  
-  * [getVersionRequired][getversreq]
+  * <a class="reference internal" href="#GVR">getVersionRequired
 * Authentication  
 * Browse  
 * Cart  
@@ -40,10 +40,9 @@ Methods
 * Item – Deprecated. Replaced by the ExtendedItem Service.   
 * Item Inventory  
 
-
-
-[getversreq]: ##getVersionRequired 
-
+<span id="GVR"></span>
+getVersionRequired 
+------------------
 
 <b>Example URL</b>  
 http://mobile.walmart.com/m/j?service=AppVersion&method=getVersionRequired
